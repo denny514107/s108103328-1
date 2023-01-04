@@ -6,7 +6,7 @@
 dht DHT;   
 
 // Wi-Fi接入點的SSID和密碼
-const  char *  ssid  =  "AIOT";
+const  char *  ssid  =  "AIOT";11212313
 const  char *  password  =  "0277388000";
 // IFTTT的密鑰
 const  char *  key  =  "bQUwsw902N3ylCLQNFZOkK";
